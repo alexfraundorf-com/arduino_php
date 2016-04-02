@@ -1,0 +1,1 @@
+swfobject.embedSWF("welcome.swf", "ajaxcontent", "70", "70", "7");

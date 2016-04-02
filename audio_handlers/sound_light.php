@@ -1,0 +1,1 @@
+swfobject.embedSWF("./audio/welcome.swf", "sound_container", "0", "0", "7");
